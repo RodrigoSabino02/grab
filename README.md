@@ -1,46 +1,68 @@
-# Getting Started with Create React App
+<p align="center">
+  <img src="design/desktop-design.jpg" alt="Logo" width="350">
+  <h3 align="center">Grab - Página de login</h3>
+</p>
+<p align="center">
+  <a href="https://github.com/magdielndantas/grab-pagina-de-login">Desafio</a> | 
+  <a href="https://www.linkedin.com/in/magdielndantas/">Contato</a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## DevChallenge
+[DevChallenge](https://devchallenge.com.br/) permite que você evolua suas skills como programador!
 
-## Available Scripts
+## Desafio
+Seu desafio será criar uma página de login e verificar se o formulário foi preenchido corretamente.
 
-In the project directory, you can run:
+## Tecnologias
+HTML
 
-### `yarn start`
+CSS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Typescript
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+React
 
-### `yarn test`
+## Como começar
+1 - Use esse template (clicando em Use this template) ou faça um fork deste repositório com o código inicial
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2 - Leia as instruções no readme.md
 
-### `yarn build`
+3 - Comece a codar!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4 - Compartilhe seu resultado com a comunidade :)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Requisitos
+- Sua página deve se parecer o mais próximo possível do design
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Sua página deve ser responsiva
 
-### `yarn eject`
+## Design
+Modelo está disponível na pasta ./design
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Imagens estão disponíveis na pasta ./assets
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+O layout pode ser visto e copiado diretamente do Figma [clicando aqui](https://www.figma.com/file/QYQm17sJV0ZhviTGOa1jmZ/Untitled?node-id=0%3A1). Nesse arquivo, você pode exportar imagens e ícones como desejar.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Cores
+Azul: #4E5BEE
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Vermelho: #FF5757
 
-## Learn More
+Cinza: #F8F8F8
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Fonte
+[Roboto](https://fonts.google.com/specimen/Roboto)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Icones
+[Material Icons(outline)](https://material.io/resources/icons/?style=outline)
+
+## Compartilhe
+1 - Inicie seu projeto utilizando esse template no seu github como um repositório público
+
+2 - Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin
+
+3 - Você tambm pode adicionar uma "issue" neste repositório mostrando seu resultado final
+
+Também pode me enviar um feedback pelo [LinkedIn](https://www.linkedin.com/in/magdielndantas)!
+
+Desafio criado por [Magdiel Dantas](https://github.com/magdielndantas)
