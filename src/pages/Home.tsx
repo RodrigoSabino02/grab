@@ -10,6 +10,7 @@ export function Home(){
             <main className="form">
                 <img src={logo} alt="logo" />
                 <form>
+                   
                     <input type="text" name="Email" id="email"/>
                     <input type="text" name="password" id="senha"/>
 
